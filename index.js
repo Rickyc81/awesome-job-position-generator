@@ -5,7 +5,6 @@ function getAwesomeJobTitle() {
 
   Object.keys(jobTitles).forEach((i) => {
     let index = parseInt(Math.random()*(i.length-1))
-    console.log(index)
     myNewPosition += ` ${jobTitles[i][index]} `;
   });
   return myNewPosition.trim();
