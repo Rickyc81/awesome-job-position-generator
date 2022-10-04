@@ -1,6 +1,6 @@
 const jobTitles = require('./jobTitles.js');
 
-function getRandomJobTitle() {
+function getAwesomeJobTitle() {
   let myNewPosition = '';
 
   Object.keys(jobTitles).forEach((i) => {
@@ -9,4 +9,4 @@ function getRandomJobTitle() {
   return myNewPosition;
 }
 
-module.exports = getRandomJobTitle;
+module.exports = getAwesomeJobTitle;
