@@ -1,0 +1,19 @@
+{
+  "name": "awesome-job-position-generator",
+  "version": "0.1.0",
+  "description": "A generator of fantastic job positions that will allow you to improve your self-esteem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rickyc81/awesome-job-position-generator.git"
+  },
+  "author": "Rickyc81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rickyc81/awesome-job-position-generator/issues"
+  },
+  "homepage": "https://github.com/Rickyc81/awesome-job-position-generator#readme"
+}
