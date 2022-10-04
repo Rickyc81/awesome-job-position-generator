@@ -11,6 +11,4 @@ function getAwesomeJobTitle() {
   return myNewPosition.trim();
 }
 
-console.log(getAwesomeJobTitle())
-
 module.exports = getAwesomeJobTitle;
