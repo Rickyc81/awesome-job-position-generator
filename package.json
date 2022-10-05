@@ -1,6 +1,6 @@
 {
   "name": "awesome-job-position-generator",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A generator of fantastic job positions that will allow you to improve your self-esteem",
   "main": "index.js",
   "scripts": {
