@@ -1,4 +1,4 @@
-﻿# 🚀Awesome job position generator
+# 🚀Awesome job position generator
 
 ###### (latest version: 0.1.6)
 
